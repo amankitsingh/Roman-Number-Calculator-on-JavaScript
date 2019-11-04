@@ -43,6 +43,5 @@ function convertToRoman(num) {
     }
   return romanNumber.reverse().join("").toString();
 }
-
 // test here
 convertToRoman(97);
